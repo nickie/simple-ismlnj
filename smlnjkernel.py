@@ -12,9 +12,9 @@ class SMLNJKernel(Kernel):
     implementation_version = '0.0.1'
 
     language_info = {
-        'name': 'SML/NJ',
-        'codemirror_mode': 'fsharp',
-        'mimetype': 'text/plain',
+        'name': 'mllike',
+        'codemirror_mode': 'mllike',
+        'mimetype': 'text/x-sml',
         'file_extension': '.sml'
     }
 

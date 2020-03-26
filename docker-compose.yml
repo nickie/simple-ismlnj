@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+  ismlnj:
+    build: .
+    image: nickie/simple-ismlnj
+    ports:
+    - "5080:8888/tcp"

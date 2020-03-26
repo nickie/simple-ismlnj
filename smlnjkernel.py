@@ -18,7 +18,7 @@ class SMLNJKernel(Kernel):
         'file_extension': '.sml'
     }
 
-    _language_version = '110.81'
+    _language_version = '110.96'
 
 
     @property
